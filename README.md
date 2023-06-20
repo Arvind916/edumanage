@@ -4,3 +4,11 @@ It is a system designed to assist educational institutions, administrators, and 
 
 
 It is a central database that stores and manages student-related information such as student details, student attendance, departments, and all records and it also performs the search operations.
+
+
+# Packages to install
+pip install flask
+pip install Flask-SQLAlchemy
+pip install Flask-Mail
+pip install mysqlclient
+pip install Flask-Login
