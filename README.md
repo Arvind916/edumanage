@@ -7,8 +7,8 @@ It is a central database that stores and manages student-related information suc
 
 
 # Packages to install
-pip install flask
-pip install Flask-SQLAlchemy
-pip install Flask-Mail
-pip install mysqlclient
-pip install Flask-Login
+*pip install flask
+*pip install Flask-SQLAlchemy
+*pip install Flask-Mail
+*pip install mysqlclient
+*pip install Flask-Login
